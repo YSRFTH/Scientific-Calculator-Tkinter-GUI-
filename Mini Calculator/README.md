@@ -22,37 +22,40 @@ Perfect for students, beginners, or developers who want to explore GUI developme
 1️⃣ Make sure **Python 3.x** is installed on your system.  
 2️⃣ Tkinter is usually included with Python. If not, install it using:
 
-``bash
+```bash
 pip install tk
+```
 3️⃣ Clone this repository:
-
-bash
-Copy code
-git clone https://github.com/YOUR_USERNAME/scientific-calculator.git
+```bash Copy code
+git clone https://github.com/YSRFTH/Scientific-Calculator-Tkinter-GUI-.git
+```
 4️⃣ Navigate to the project folder:
-
-bash
-Copy code
+```bash Copy code
 cd scientific-calculator
+```
 ▶️ Running the App
 Option 1 — Run as a Python Script:
-bash
-Copy code
+```bash Copy code
 python scientific_calculator.py
+```
 Option 2 — (Optional) Executable for Windows:
 If you have the .exe version, simply double-click
 ScientificCalculator.exe to launch the app.
 
-🧠 How to Use
+🧠 How to Use:
+
 1️⃣ Click the on-screen buttons or type directly into the input field.
+
 2️⃣ Use scientific buttons like sin, cos, tan, log, or sqrt() for advanced calculations.
+
 3️⃣ Press = to evaluate.
+
 4️⃣ Press C to clear the input field.
+
 5️⃣ Combine parentheses for complex expressions — for example:
 
-cpp
-Copy code
 sin(45) + log(100) / (2^3)
+
 🖼️ Preview
 
 ![img.png](img.png)
@@ -74,12 +77,4 @@ Contributors are always welcome!
 💬 Feedback
 If you like this project, don’t forget to ⭐ star the repo on GitHub!
 Suggestions and pull requests are always appreciated.
-
-yaml
-Copy code
-
----
-
-Would you like me to make **matching README templates** (same clean style and emojis) for your **Text Analyzer** and **To-Do List Manager** projects too?  
-They’ll all look consistent and professional across your GitHub.
 
