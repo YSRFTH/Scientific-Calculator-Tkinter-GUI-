@@ -24,7 +24,7 @@ Installation
 
 3- Clone this repository:
 
-git clone https://github.com/YOUR_USERNAME/scientific-calculator.git
+git clone https://github.com/YSRFTH/Scientific-Calculator-Tkinter-GUI-.git
 
 Running the App
 
@@ -61,5 +61,6 @@ Potential Improvements:
 - Dark/light mode toggle
 
 - History of previous calculations
+
 
 - Memory buttons (M+, M-)
