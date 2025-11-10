@@ -62,10 +62,13 @@ sin(45) + log(100) / (2^3)
 
 🧑‍💻 Author
 Created by: Yasser
+
 This project is open-source and can be freely improved or customized.
+
 Contributors are always welcome!
 
 🌟 Future Improvements
+
 🌓 Add Dark / Light Mode toggle
 
 📜 Include Calculation History
@@ -77,4 +80,5 @@ Contributors are always welcome!
 💬 Feedback
 If you like this project, don’t forget to ⭐ star the repo on GitHub!
 Suggestions and pull requests are always appreciated.
+
 
