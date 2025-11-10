@@ -22,7 +22,7 @@ Perfect for students, beginners, or developers who want to explore GUI developme
 1️⃣ Make sure **Python 3.x** is installed on your system.  
 2️⃣ Tkinter is usually included with Python. If not, install it using:
 
-```bash
+``bash
 pip install tk
 3️⃣ Clone this repository:
 
@@ -82,3 +82,4 @@ Copy code
 
 Would you like me to make **matching README templates** (same clean style and emojis) for your **Text Analyzer** and **To-Do List Manager** projects too?  
 They’ll all look consistent and professional across your GitHub.
+
